@@ -123,8 +123,15 @@ Some other systems and tools you may be required to use
 
 
 ### MATLAB
+
 - [How to download and install MATLAB](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/tutorial/matlab_install)
 
 ### MATLAB Grader
+
 - [How to use the MATLAB Grader](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/tutorial/matlab_grader)
+
+### GitHub 
+- https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/README.md
+
+- All information related to AE/ENVE/GEOE 121 will be posted on this course website
 
