@@ -46,20 +46,21 @@ Please make sure that you sign up your accounts using the school emails (userID@
 
 
 ![Question Page2](https://github.com/noreengao0924/Noreen-Gao/blob/MATLAB-GRADER/Question%20Page2.png)
-You will see a srcipt window when you scoll down, and
-you can run your script after typing your code into it. This can always be used to check your mistakes.
+>You will see a srcipt window when you scoll down.
+
+
+![Answering Question](https://github.com/noreengao0924/Noreen-Gao/blob/MATLAB-GRADER/Answering%20Question.png)
+>You can run your script after typing your code into it. This can always be used to check your mistakes.
 
 ## Submiting solutions 
 
 ![Submission](https://github.com/noreengao0924/Noreen-Gao/blob/MATLAB-GRADER/Submission.png)
-> When you finish the question,just click the "Submit" button on the end of the page. 
-
-![Tests](https://github.com/noreengao0924/Noreen-Gao/blob/MATLAB-GRADER/Tests.png)
-> MATLAB Grader will evaluate your code automatically after submission. You can sumbit your solution as many times as you would like 
-until all tests get passed.
+> When you finish the question,just click the "Submit" button on the end of the page.
+MATLAB Grader will evaluate your code automatically after submission. 
+You can sumbit your solution as many times as you would like until all tests get passed.
 
 ## Fixing solutions 
 
-![Fixing solutions](https://github.com/noreengao0924/Noreen-Gao/blob/MATLAB-GRADER/Fixing%20solutions.png)
+![Fixing solutions](https://github.com/noreengao0924/Noreen-Gao/blob/MATLAB-GRADER/Fixing%20Solutions.png)
 > MATALAB Grader will inform you that your solution is wrong if the tests do not get passed. You can click on 
 the "Fix This Solution" button to get your solution fixed.
